@@ -5,5 +5,5 @@ A very simplistic ruby interpreter, for the sake of fun and learning of writing 
 
 ###Usage
 
-  make
-  ./yavm
+    make
+    ./yavm
