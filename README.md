@@ -1,6 +1,6 @@
 # yavm
 
-A very simplistic ruby interpreter, for the sake of fun and learning of writing interpreters.
+A very simplistic interpreter, for the sake of fun and learning.
 (Work in progress)
 
 ###Usage
